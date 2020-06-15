@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessor", "MessageProcessor\MessageProcessor.csproj", "{BC109EFB-8A8D-434C-9792-C84B1B1C6B28}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingDataProvider", "MessagingDataProvider\MessagingDataProvider.csproj", "{60726D77-B057-4804-941C-7C5337A5EE3A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDataProvider.Unit.Tests", "MessageDataProvider.Unit.Tests\MessageDataProvider.Unit.Tests.csproj", "{2B4352CD-F662-4EAE-BFA6-5F452CB854F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessorFunction", "MessageProcessorFunction\MessageProcessor.csproj", "{BC109EFB-8A8D-434C-9792-C84B1B1C6B28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
